@@ -1,6 +1,6 @@
 [
     {
-        "Cedula"::11671718,
+        "Cedula":11671718,
         "Email":"EVEGA@UNIMET.EDU.VE",
         "Apellido":"VEGA",
         "Nombre":"ENCARNACION",
@@ -8,7 +8,7 @@
         "Materias":["FPTSP18"]
     },
     {
-        "Cedula"::11593482,
+        "Cedula":11593482,
         "Email":"IMUÑOZ@UNIMET.EDU.VE",
         "Apellido":"MUÑOZ",
         "Nombre":"IVAN",
@@ -16,7 +16,7 @@
         "Materias":["FBTSP03"]
     },
     {
-        "Cedula"::25898922,
+        "Cedula":25898922,
         "Email":"MCAMPOS@UNIMET.EDU.VE",
         "Apellido":"CAMPOS",
         "Nombre":"MONTSERRAT",
@@ -24,7 +24,7 @@
         "Materias":["FBTSP03","FPTSP14"]
     },
     {
-        "Cedula"::5420797,
+        "Cedula":5420797,
         "Email":"MPEÑA@UNIMET.EDU.VE",
         "Apellido":"PEÑA",
         "Nombre":"MARIA",
@@ -32,7 +32,7 @@
         "Materias":["FBTSP03","FPTSP24"]
     },
     {
-        "Cedula"::20198198,
+        "Cedula":20198198,
         "Email":"SMENDEZ@UNIMET.EDU.VE",
         "Apellido":"MENDEZ",
         "Nombre":"SARA",
@@ -40,7 +40,7 @@
         "Materias":["FBTSP03"]
     },
     {
-        "Cedula"::16329497,
+        "Cedula":16329497,
         "Email":"RRUBIO@UNIMET.EDU.VE",
         "Apellido":"RUBIO",
         "Nombre":"ROCIO",
@@ -48,7 +48,7 @@
         "Materias":["FPTSP14"]
     },
     {
-        "Cedula"::21763943,
+        "Cedula":21763943,
         "Email":"IDURAN@UNIMET.EDU.VE",
         "Apellido":"DURAN",
         "Nombre":"IVAN",
@@ -56,7 +56,7 @@
         "Materias":["FPTSP17","FPTSP19","FPTSP20","FPTSP23"]
     },
     {
-        "Cedula"::22477298,
+        "Cedula":22477298,
         "Email":"DFLORES@UNIMET.EDU.VE",
         "Apellido":"FLORES",
         "Nombre":"DAVID",
@@ -64,7 +64,7 @@
         "Materias":["FPTSP22"]
     },
     {
-        "Cedula"::27712040,
+        "Cedula":27712040,
         "Email":"IBENITEZ@UNIMET.EDU.VE",
         "Apellido":"BENITEZ",
         "Nombre":"IVAN",
@@ -72,7 +72,7 @@
         "Materias":["FPTSP22"]
     },
     {
-        "Cedula"::12504756,
+        "Cedula":12504756,
         "Email":"NVIDAL@UNIMET.EDU.VE",
         "Apellido":"VIDAL",
         "Nombre":"NURIA",
@@ -80,7 +80,7 @@
         "Materias":["FPTSP22"]
     },
     {
-        "Cedula"::18148416,
+        "Cedula":18148416,
         "Email":"AMONTERO@UNIMET.EDU.VE",
         "Apellido":"MONTERO",
         "Nombre":"ANDRES",
@@ -88,7 +88,7 @@
         "Materias":["FGESP01"]
     },
     {
-        "Cedula"::29384987,
+        "Cedula":29384987,
         "Email":"SMENDOZA@UNIMET.EDU.VE",
         "Apellido":"MENDOZA",
         "Nombre":"SARA",
@@ -96,7 +96,7 @@
         "Materias":["BPTSP05","BPTSP06","FPTSP25"]
     },
     {
-        "Cedula"::24760089,
+        "Cedula":24760089,
         "Email":"JJIMENEZ@UNIMET.EDU.VE",
         "Apellido":"JIMENEZ",
         "Nombre":"JULIA",
@@ -104,7 +104,7 @@
         "Materias":["BPTSP05"]
     },
     {
-        "Cedula"::16615153,
+        "Cedula":16615153,
         "Email":"ILORENZO@UNIMET.EDU.VE",
         "Apellido":"LORENZO",
         "Nombre":"IVAN",
@@ -112,7 +112,7 @@
         "Materias":["BPTSP05"]
     },
     {
-        "Cedula"::15902683,
+        "Cedula":15902683,
         "Email":"CHIDALGO@UNIMET.EDU.VE",
         "Apellido":"HIDALGO",
         "Nombre":"CARMEN",
@@ -120,7 +120,7 @@
         "Materias":["BPTSP05"]
     },
     {
-        "Cedula"::15481633,
+        "Cedula":15481633,
         "Email":"MPASCUAL@UNIMET.EDU.VE",
         "Apellido":"PASCUAL",
         "Nombre":"MONICA",
@@ -128,7 +128,7 @@
         "Materias":["BPTSP05"]
     },
     {
-        "Cedula"::5337686,
+        "Cedula":5337686,
         "Email":"CVICENTE@UNIMET.EDU.VE",
         "Apellido":"VICENTE",
         "Nombre":"CARMEN",
@@ -136,7 +136,7 @@
         "Materias":["BPTSP05","FBTSP04"]
     },
     {
-        "Cedula"::30494195,
+        "Cedula":30494195,
         "Email":"ACASTILLO@UNIMET.EDU.VE",
         "Apellido":"CASTILLO",
         "Nombre":"ALBA",
@@ -144,7 +144,7 @@
         "Materias":["FGESP03"]
     },
     {
-        "Cedula"::5714135,
+        "Cedula":5714135,
         "Email":"MTORRES@UNIMET.EDU.VE",
         "Apellido":"TORRES",
         "Nombre":"MARIA",
@@ -152,7 +152,7 @@
         "Materias":["FGESP03","FGESP04"]
     },
     {
-        "Cedula"::4503009,
+        "Cedula":4503009,
         "Email":"LGUERRERO@UNIMET.EDU.VE",
         "Apellido":"GUERRERO",
         "Nombre":"LAURA",
@@ -160,7 +160,7 @@
         "Materias":["BPTSP06"]
     },
     {
-        "Cedula"::22878613,
+        "Cedula":22878613,
         "Email":"DCORTES@UNIMET.EDU.VE",
         "Apellido":"CORTES",
         "Nombre":"DANIEL",
@@ -168,7 +168,7 @@
         "Materias":["BPTSP05","BPTSP06"]
     },
     {
-        "Cedula"::11260150,
+        "Cedula":11260150,
         "Email":"SLOPEZ@UNIMET.EDU.VE",
         "Apellido":"LOPEZ",
         "Nombre":"SANTIAGO",
@@ -176,7 +176,7 @@
         "Materias":["FPTSP25"]
     },
     {
-        "Cedula"::25904593,
+        "Cedula":25904593,
         "Email":"JMEDINA@UNIMET.EDU.VE",
         "Apellido":"MEDINA",
         "Nombre":"JULIA",
@@ -184,7 +184,7 @@
         "Materias":["BPTSP04"]
     },
     {
-        "Cedula"::8947001,
+        "Cedula":8947001,
         "Email":"VBRAVO@UNIMET.EDU.VE",
         "Apellido":"BRAVO",
         "Nombre":"VICENTE",
@@ -192,7 +192,7 @@
         "Materias":["FPTSP20"]
     },
     {
-        "Cedula"::1477473,
+        "Cedula":1477473,
         "Email":"AMOYA@UNIMET.EDU.VE",
         "Apellido":"MOYA",
         "Nombre":"ANDREA",
@@ -200,7 +200,7 @@
         "Materias":["FPTSP17","FPTSP19"]
     },
     {
-        "Cedula"::9546578,
+        "Cedula":9546578,
         "Email":"PCRESPO@UNIMET.EDU.VE",
         "Apellido":"CRESPO",
         "Nombre":"PAULA",
@@ -208,7 +208,7 @@
         "Materias":["FBTSP04","FPTSP04"]
     },
     {
-        "Cedula"::27514241,
+        "Cedula":27514241,
         "Email":"RFERRER@UNIMET.EDU.VE",
         "Apellido":"FERRER",
         "Nombre":"RUBEN",
@@ -216,7 +216,7 @@
         "Materias":["BPTSP05","FBTSP04","FPTSP04","FPTSP07"]
     },
     {
-        "Cedula"::30839944,
+        "Cedula":30839944,
         "Email":"EVAZQUEZ@UNIMET.EDU.VE",
         "Apellido":"VAZQUEZ",
         "Nombre":"ENRIQUE",
@@ -224,7 +224,7 @@
         "Materias":["FBTSP04","FPTPS07","FPTSP07"]
     },
     {
-        "Cedula"::1048200,
+        "Cedula":1048200,
         "Email":"RGIL@UNIMET.EDU.VE",
         "Apellido":"GIL",
         "Nombre":"ROSARIO",
@@ -232,7 +232,7 @@
         "Materias":["FPSSP02","FPTSP15"]
     },
     {
-        "Cedula"::12578821,
+        "Cedula":12578821,
         "Email":"RCALVO@UNIMET.EDU.VE",
         "Apellido":"CALVO",
         "Nombre":"RAMON",
@@ -240,7 +240,7 @@
         "Materias":["BPTSP03","FPTSP15","FPTSP21"]
     },
     {
-        "Cedula"::10808595,
+        "Cedula":10808595,
         "Email":"EPASCUAL@UNIMET.EDU.VE",
         "Apellido":"PASCUAL",
         "Nombre":"ENRIQUE",
@@ -248,7 +248,7 @@
         "Materias":["FPSSP03","FPTSP11"]
     },
     {
-        "Cedula"::16437847,
+        "Cedula":16437847,
         "Email":"TMORALES@UNIMET.EDU.VE",
         "Apellido":"MORALES",
         "Nombre":"TERESA",
@@ -256,7 +256,7 @@
         "Materias":["FBTSP04"]
     },
     {
-        "Cedula"::25270312,
+        "Cedula":25270312,
         "Email":"SCABALLERO@UNIMET.EDU.VE",
         "Apellido":"CABALLERO",
         "Nombre":"SERGIO",
@@ -264,7 +264,7 @@
         "Materias":["FBTSP04"]
     },
     {
-        "Cedula"::24827705,
+        "Cedula":24827705,
         "Email":"ICASTRO@UNIMET.EDU.VE",
         "Apellido":"CASTRO",
         "Nombre":"ISABEL",
@@ -272,7 +272,7 @@
         "Materias":["FBTSP04","FPTSP01"]
     },
     {
-        "Cedula"::12615495,
+        "Cedula":12615495,
         "Email":"LRUIZ@UNIMET.EDU.VE",
         "Apellido":"RUIZ",
         "Nombre":"LUIS",
@@ -280,7 +280,7 @@
         "Materias":["FBTSP04"]
     },
     {
-        "Cedula"::31577698,
+        "Cedula":31577698,
         "Email":"ASANTIAGO@UNIMET.EDU.VE",
         "Apellido":"SANTIAGO",
         "Nombre":"ADRIAN",
@@ -288,7 +288,7 @@
         "Materias":["FBTSP04"]
     },
     {
-        "Cedula"::12040570,
+        "Cedula":12040570,
         "Email":"JLOZANO@UNIMET.EDU.VE",
         "Apellido":"LOZANO",
         "Nombre":"JOAQUIN",
@@ -296,7 +296,7 @@
         "Materias":["FBTSP04","FPSSP04","FPTSP18"]
     },
     {
-        "Cedula"::2441340,
+        "Cedula":2441340,
         "Email":"MGIMENEZ@UNIMET.EDU.VE",
         "Apellido":"GIMENEZ",
         "Nombre":"MARIO",
@@ -304,7 +304,7 @@
         "Materias":["FPTSP01","FPTSP26"]
     },
     {
-        "Cedula"::2017881,
+        "Cedula":2017881,
         "Email":"CHERNANDEZ@UNIMET.EDU.VE",
         "Apellido":"HERNANDEZ",
         "Nombre":"CARMEN",
@@ -312,7 +312,7 @@
         "Materias":["BPTSP03"]
     },
     {
-        "Cedula"::30970090,
+        "Cedula":30970090,
         "Email":"IORTEGA@UNIMET.EDU.VE",
         "Apellido":"ORTEGA",
         "Nombre":"IVAN",
@@ -320,7 +320,7 @@
         "Materias":["FPTSP14"]
     },
     {
-        "Cedula"::20918224,
+        "Cedula":20918224,
         "Email":"PPARRA@UNIMET.EDU.VE",
         "Apellido":"PARRA",
         "Nombre":"PILAR",
@@ -328,7 +328,7 @@
         "Materias":["BPTSP05"]
     },
     {
-        "Cedula"::18011276,
+        "Cedula":18011276,
         "Email":"JVELASCO@UNIMET.EDU.VE",
         "Apellido":"VELASCO",
         "Nombre":"JUAN",
@@ -336,7 +336,7 @@
         "Materias":["FPTSP15"]
     },
     {
-        "Cedula"::27403427,
+        "Cedula":27403427,
         "Email":"IVARGAS@UNIMET.EDU.VE",
         "Apellido":"VARGAS",
         "Nombre":"IVAN",
@@ -344,7 +344,7 @@
         "Materias":["FBTSP03"]
     },
     {
-        "Cedula"::6207924,
+        "Cedula":6207924,
         "Email":"JIBANEZ@UNIMET.EDU.VE",
         "Apellido":"IBAÑEZ",
         "Nombre":"JUANA",
@@ -352,7 +352,7 @@
         "Materias":["FBTSP03"]
     },
     {
-        "Cedula"::11079901,
+        "Cedula":11079901,
         "Email":"MNAVARRO@UNIMET.EDU.VE",
         "Apellido":"NAVARRO",
         "Nombre":"MARINA",
@@ -360,7 +360,7 @@
         "Materias":["FPTSP22"]
     },
     {
-        "Cedula"::16326333,
+        "Cedula":16326333,
         "Email":"PMEDINA@UNIMET.EDU.VE",
         "Apellido":"MEDINA",
         "Nombre":"PILAR",
@@ -368,7 +368,7 @@
         "Materias":["BPTSP04"]
     },
     {
-        "Cedula"::27784103,
+        "Cedula":27784103,
         "Email":"JPARDO@UNIMET.EDU.VE",
         "Apellido":"PARDO",
         "Nombre":"JULIA",
@@ -376,7 +376,7 @@
         "Materias":["FPTSP17","FPTSP19","FPTSP20","FPTSP23"]
     },
     {
-        "Cedula"::31716463,
+        "Cedula":31716463,
         "Email":"ALEON@UNIMET.EDU.VE",
         "Apellido":"LEON",
         "Nombre":"ANTONIO",
@@ -384,7 +384,7 @@
         "Materias":["FBTSP04"]
     },
     {
-        "Cedula"::18158477,
+        "Cedula":18158477,
         "Email":"RGALLEGO@UNIMET.EDU.VE",
         "Apellido":"GALLEGO",
         "Nombre":"RAUL",
@@ -392,7 +392,7 @@
         "Materias":["FPSSP01","FPTSP27"]
     },
     {
-        "Cedula"::17915618,
+        "Cedula":17915618,
         "Email":"MPEREZ@UNIMET.EDU.VE",
         "Apellido":"PEREZ",
         "Nombre":"MARIA",
@@ -400,7 +400,7 @@
         "Materias":["FPSSP01"]
     },
     {
-        "Cedula"::18966035,
+        "Cedula":18966035,
         "Email":"MMARTIN@UNIMET.EDU.VE",
         "Apellido":"MARTIN",
         "Nombre":"MARTA",
@@ -408,7 +408,7 @@
         "Materias":["FGESP05"]
     },
     {
-        "Cedula"::26580983,
+        "Cedula":26580983,
         "Email":"CRIVERA@UNIMET.EDU.VE
 "Apellido":"RIVERA",
         "Nombre":"CARMEN",
@@ -416,7 +416,7 @@
         "Materias":["BPTSP05","FPTSP28"]
     },
     {
-        "Cedula"::3711954,
+        "Cedula":3711954,
         "Email":"AIGLESIAS@UNIMET.EDU.VE",
         "Apellido":"IGLESIAS",
         "Nombre":"ALICIA",
@@ -424,7 +424,7 @@
         "Materias":["FGESP05"]
     },
     {
-        "Cedula"::24703671,
+        "Cedula":24703671,
         "Email":"VALONSO@UNIMET.EDU.VE",
         "Apellido":"ALONSO",
         "Nombre":"VICTOR",
@@ -432,7 +432,7 @@
         "Materias":["BPTSP05","BPTSP06"]
     },
     {
-        "Cedula"::1241499,
+        "Cedula":1241499,
         "Email":"IDURAN@UNIMET.EDU.VE",
         "Apellido":"DURAN",
         "Nombre":"IRENE",
@@ -440,7 +440,7 @@
         "Materias":["BPTSP05","FBTSP04","FGESP04","FGESP06"]
     },
     {
-        "Cedula"::22296416,
+        "Cedula":22296416,
         "Email":"JRAMIREZ@UNIMET.EDU.VE",
         "Apellido":"RAMIREZ",
         "Nombre":"JORGE",
@@ -448,7 +448,7 @@
         "Materias":["FBTSP03"]
     },
     {
-        "Cedula"::6503596,
+        "Cedula":6503596,
         "Email":"DCANO@UNIMET.EDU.VE",
         "Apellido":"CANO",
         "Nombre":"DIEGO",
@@ -456,7 +456,7 @@
         "Materias":["FBTSP03"]
     },
     {
-        "Cedula"::16125737,
+        "Cedula":16125737,
         "Email":"IDIEZ@UNIMET.EDU.VE",
         "Apellido":"DIEZ",
         "Nombre":"IVAN",
@@ -464,7 +464,7 @@
         "Materias":["FPTSP14"]
     },
     {
-        "Cedula"::7561372,
+        "Cedula":7561372,
         "Email":"FGARRIDO@UNIMET.EDU.VE",
         "Apellido":"GARRIDO",
         "Nombre":"FRANCISCA",
@@ -472,7 +472,7 @@
         "Materias":["FGESP07"]
     },
     {
-        "Cedula"::16251508,
+        "Cedula":16251508,
         "Email":"MDOMINGUEZ@UNIMET.EDU.VE",
         "Apellido":"DOMINGUEZ",
         "Nombre":"MERCEDES",
@@ -480,7 +480,7 @@
         "Materias":["BPTSP05","FBTSP04"]
     },
     {
-        "Cedula"::16816555,
+        "Cedula":16816555,
         "Email":"HCANO@UNIMET.EDU.VE",
         "Apellido":"CANO",
         "Nombre":"HUGO",
@@ -488,7 +488,7 @@
         "Materias":["FBTSP04"]
     },
     {
-        "Cedula"::30473550,
+        "Cedula":30473550,
         "Email":"FCARMONA@UNIMET.EDU.VE",
         "Apellido":"CARMONA",
         "Nombre":"FERNANDO",
@@ -496,7 +496,7 @@
         "Materias":["FPSSP02"]
     },
     {
-        "Cedula"::17081682,
+        "Cedula":17081682,
         "Email":"ENIETO@UNIMET.EDU.VE",
         "Apellido":"NIETO",
         "Nombre":"ELENA",
@@ -504,7 +504,7 @@
         "Materias":["BPTSP04"]
     },
     {
-        "Cedula"::22339870,
+        "Cedula":22339870,
         "Email":"JMORENO@UNIMET.EDU.VE",
         "Apellido":"MORENO",
         "Nombre":"JESUS",
